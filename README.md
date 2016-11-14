@@ -15,18 +15,14 @@ I volunteered for PATCH Hawaii awhile ago. I remember their website to be in nee
 #Rapid Prototype Development Stages
 
 1. Build static site
-* figure out layout
-* ensure user flow makes sense
-
+⋅⋅* figure out layout
+⋅⋅* ensure user flow makes sense
 2. Design the data model, create the database
-* define datamodel that reflects requirements of the app
-* create database to work with the model
-
+⋅⋅* define datamodel that reflects requirements of the app
+⋅⋅* create database to work with the model
 3. Build Data API
-* create REST API for app to interat with database
-
+⋅⋅* create REST API for app to interat with database
 4. Hook database into app
-* get app to talk to API
-
+⋅⋅* get app to talk to API
 5. Augment the app
-* finishing touches and UX
+⋅⋅* finishing touches and UX
